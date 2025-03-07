@@ -6,7 +6,7 @@
 <h1 align="center">Projetos</h1>
 <a><a target="_blank"href="https://github.com/leandro-miguell/sorteio-em-java" alt="Projeto básico Java">
 <img src=https://img.shields.io/badge/JAVA-Sistema_de_Sorteio_através_de_um_txt-red.svg style="max-width: 50%;"></a>
-<a><a target="_blank2"href="https://github.com/leandro-miguel/UI5" alt="Projeto OPEN UI5">
+<a><a target="_blank2"href="https://github.com/leandro-miguell/open-business" alt="Projeto OPEN UI5">
 <img src=https://img.shields.io/badge/UI5-Projeto_Open_Business-blue.svg style="max-width: 50%;"></a>
 
 <br><br>
