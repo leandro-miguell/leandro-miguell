@@ -18,4 +18,7 @@
     <img height="60" src="https://www.sap.com/content/dam/application/shared/logos/sap-logo-svg.svg" alt="SAP BTP"/>
     </h2>
 
+    ![Leandro GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandro-miguell&show_icons=true&theme=dracula)
+
+
   
