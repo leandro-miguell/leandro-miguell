@@ -10,15 +10,15 @@
 <img src=https://img.shields.io/badge/UI5-Projeto_Open_Business-blue.svg style="max-width: 50%;"></a>
 
 <br><br>
-
+   ![Leandro GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandro-miguell&show_icons=true&theme=dracula)
 <h1 align="center">Conhecimentos</h1>
   <h2 align="center">
     <img height="60" src=https://sap.github.io/ui5-tooling/v3/images/UI5_logo_wide.png alt="Ui5"/>
     <img height="60" src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png alt="JS"/>
     <img height="60" src="https://www.sap.com/content/dam/application/shared/logos/sap-logo-svg.svg" alt="SAP BTP"/>
     </h2>
-
-    ![Leandro GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandro-miguell&show_icons=true&theme=dracula)
+ 
+    
 
 
   
